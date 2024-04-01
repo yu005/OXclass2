@@ -116,6 +116,7 @@
             button7.Size = new Size(96, 95);
             button7.TabIndex = 7;
             button7.UseVisualStyleBackColor = true;
+            button7.Click += button1_Click;
             // 
             // button8
             // 
@@ -126,6 +127,7 @@
             button8.Size = new Size(96, 95);
             button8.TabIndex = 8;
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button1_Click;
             // 
             // button9
             // 
@@ -136,6 +138,7 @@
             button9.Size = new Size(96, 95);
             button9.TabIndex = 9;
             button9.UseVisualStyleBackColor = true;
+            button9.Click += button1_Click;
             // 
             // label1
             // 
